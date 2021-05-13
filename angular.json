@@ -108,6 +108,10 @@
           "options": {
             "browserTarget": "livrariaVirtual-front:build"
           }
+        },
+        "deploy": {
+          "builder": "angular-cli-ghpages:deploy",
+          "options": {}
         }
       }
     }
